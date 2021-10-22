@@ -33,9 +33,10 @@ input {
     padding: 0.5rem;
     font-size: 1.5rem;
     outline: none;
-    border: 3px solid #000;
+    border: none;
     border-radius: 5px;
     cursor: pointer;
+    margin: 0.5rem;
 }
 
 .results {
